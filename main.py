@@ -8,3 +8,5 @@ print(a)
 b = a[:1] + "y" + a[2:]
 print(b)
 print(a[:1] + "y" + a[2:])
+
+print(a)
