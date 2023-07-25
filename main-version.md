@@ -10,6 +10,7 @@ git add
 - 특정 파일 : git add file_name.md<br>
 
 git commit
+- git commit -m "message" : 메세지 꼭넣어야함 / 안넣으면 메세지 넣는 vi열림 
 - 패키징하는 작업
 
 git push
